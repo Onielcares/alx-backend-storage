@@ -1,1 +1,1 @@
-# This is my approach to NOSQL. Mongodb Test run
+# NoSQL
